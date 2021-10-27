@@ -1,4 +1,7 @@
 #include <iostream>
+#include <fstream>
+#include <string>
+#include <vector>
 
 #include <glew.h>
 #include <glfw3.h>
