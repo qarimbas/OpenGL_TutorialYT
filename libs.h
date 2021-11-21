@@ -2,6 +2,7 @@
 #include <fstream>
 #include <string>
 #include <vector>
+#include "Shader.h"
 
 #include <glew.h>
 #include <glfw3.h>
